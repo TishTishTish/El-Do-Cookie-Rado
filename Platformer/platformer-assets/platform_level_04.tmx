@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="36" height="26" tilewidth="18" tileheight="18" infinite="0" nextlayerid="7" nextobjectid="37">
+ <tileset firstgid="1" source="cookie_platformer.tsx"/>
+ <layer id="1" name="ground" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztktsNwjAMRcNjglIVygDQGVqmYQ2YBBgWRxDJitI4TmzRAlc6H1UU++g2xvzzC7kBd+CRccfBuTuHjHVCdbUg5lLnUvH3UN9UlsAKWBd6cM+lorEnt5MppAI2b2rh2aGuqa4OwBGh4RUL7gP34nwG4JQ4S+Jd+H04rFOnsC+WasQFO8Xi/CQcKRdL6n/Kid91b15v4xMusfSeB+f9asU6nSfg8e1pgC2DnbLDHrgwuBIzU31LHDBtYGeDZrYmrecSh5CT1uy58ARE3UkB
+  </data>
+ </layer>
+ <layer id="2" name="background" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwlEDrQDaAwmDrQDBiGoH2gHDDJQO9AOGAWDFtTR0a7RfDkKRsHQB4lUNAtX3VRPQB4ZdANxD3WcQxXQNdAOIAKMtglGJgAAv7sG3A==
+  </data>
+ </layer>
+ <layer id="4" name="portal" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAIA6AFsX9OW0wPSEDCR3MdAAAAKFt7jwAd
+  </data>
+ </layer>
+ <layer id="6" name="goal" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAADgbw6gAAE=
+  </data>
+ </layer>
+ <layer id="3" name="ladders" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUwIDJQDsADXgMtAPQwKh78IPB5p5RMPzAaBmFH1DTPdQIa2q6hxpmjbqH9mZQ06xR99APDDb3jHQAAKOwBfU=
+  </data>
+ </layer>
+ <objectgroup id="5" name="cookies">
+  <object id="1" gid="183" x="112.185" y="281.705" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="2" gid="183" x="166.226" y="267.483" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="3" gid="183" x="229.37" y="211.735" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="4" gid="183" x="149.161" y="193.532" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="5" gid="183" x="93.9814" y="134.939" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="6" gid="183" x="40.5087" y="157.125" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="7" gid="183" x="39.9398" y="175.328" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="9" gid="183" x="39.9398" y="137.784" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="10" gid="183" x="144.61" y="120.718" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="11" gid="183" x="219.13" y="74.0714" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="12" gid="183" x="272.603" y="48.4727" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="13" gid="183" x="453.5" y="84.3108" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="14" gid="183" x="488.769" y="104.221" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="15" gid="183" x="524.607" y="121.287" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="16" gid="183" x="561.583" y="105.359" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="17" gid="183" x="598.559" y="85.4485" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="18" gid="183" x="418.231" y="104.221" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="19" gid="183" x="383.53" y="121.287" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="20" gid="183" x="344.848" y="140.628" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="21" gid="183" x="328.92" y="88.2928" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="22" gid="183" x="497.871" y="247.004" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="23" gid="183" x="419.369" y="203.202" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="24" gid="183" x="561.583" y="210.029" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="25" gid="183" x="184.43" y="426.764" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="26" gid="183" x="200.927" y="409.129" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="27" gid="183" x="310.148" y="409.698" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="28" gid="183" x="327.782" y="394.339" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="29" gid="183" x="348.83" y="381.255" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="30" gid="183" x="367.034" y="392.063" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="31" gid="183" x="384.099" y="405.716" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="33" gid="183" x="506.973" y="373.291" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="34" gid="183" x="616.277" y="357.243" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="35" gid="183" x="616.14" y="339.177" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="36" gid="183" x="616.762" y="321.525" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

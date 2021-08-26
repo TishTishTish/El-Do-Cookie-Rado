@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="36" height="26" tilewidth="18" tileheight="18" infinite="0" nextlayerid="7" nextobjectid="19">
+ <tileset firstgid="1" source="cookie_platformer.tsx"/>
+ <layer id="1" name="ground" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhB2YB8WwgnjNq/5AGTEDMDMQsVDALFiYwPBTDhlB4UCu8hkpYUepfaqav4QBGaniIAbE4FEugydE7TEBukQLiaiiWxOImegF0t1DTTeJkYGxuQXYTOWbCMC5zR/HgxADidkk+
+  </data>
+ </layer>
+ <layer id="6" name="portal" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAADgbw6gAAE=
+  </data>
+ </layer>
+ <layer id="2" name="background" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhAyYOtANGAQoYLvGxY6AdMIgANcJiJxXMGAXDE4ymDdqBXXjkqFnGoZsVSYI7RsEoIAYAADrkB0I=
+  </data>
+ </layer>
+ <layer id="3" name="ladders" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAADgbw6gAAE=
+  </data>
+ </layer>
+ <layer id="4" name="goal" width="36" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztzkERAAAEADCNxVHXXwHHbQkWAQAAXJLbgaG2A7zRpvYBBw==
+  </data>
+ </layer>
+ <objectgroup id="5" name="cookies">
+  <object id="7" gid="183" x="95.3366" y="385.663" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="8" gid="183" x="183" y="385.667" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="9" gid="183" x="299.667" y="332" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="10" gid="183" x="295.667" y="134.334" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="11" gid="183" x="148.333" y="169.667" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="12" gid="183" x="218.333" y="154.334" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="13" gid="183" x="185.667" y="243" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="14" gid="183" x="474" y="300" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="15" gid="183" x="327" y="227.334" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="16" gid="183" x="473.667" y="228.333" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="17" gid="183" x="545" y="263.667" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="18" gid="183" x="400.333" y="189.667" width="10" height="10">
+   <properties>
+    <property name="point_value" type="int" value="5"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
