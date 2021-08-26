@@ -1,7 +1,7 @@
 # The Last Cookie 🍪🕵🏽‍♀️
 ## El Do-Cookie-Rado - A Platformer Game ✨
 
-![Title Screen](https://github.com/TishTishTish/TheLastCookie/blob/tish-platform-game/Platformer/assets/images/title-screen.PNG)
+![GIF1](https://github.com/TishTishTish/El-Do-Cookie-Rado/blob/main/el_do-cookie-rado2.gif?raw=true)
 
 ## About
 My entry for the Code First: Girls Nanodegree (Software) group project! Please check out the fantastic mini games created by my fellow coursemates by accessing their works via the branches in this repository!
