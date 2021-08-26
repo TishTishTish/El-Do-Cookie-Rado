@@ -4,7 +4,7 @@
 ![GIF1](https://github.com/TishTishTish/El-Do-Cookie-Rado/blob/main/el_do-cookie-rado2.gif?raw=true)
 
 ## About
-My entry for the Code First: Girls Nanodegree (Software) group project! Please check out the fantastic mini games created by my fellow coursemates by accessing their works via the branches in this repository!
+My entry for the Code First: Girls Nanodegree (Software) group project! Please check out the fantastic mini games created by my fellow coursemates by accessing their works via the branches in this repository! (Jo, Funmi, Karan, and Anna - will be adding the github links here)
 
 A part of the text-based adventure game 'The Last Cookie' and as the detective on this case, it appears Queen Rich Tea may have fooled you into reading her book about the forgottem city of 'El Do-Cookie-Rado'. The book turns into a portal key and sucks you into a vortex, taking you to the legendary city itself. Complete the levels and collect as many cookies as possible to find the fourth clue you need for this mystery!
 
